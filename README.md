@@ -1,13 +1,13 @@
 # Golang-Basics<br>
 ### 1. Basic data types
-Declarations, initializations and functions relating to each datatype have been explained.<br>
-&nbsp;A)Integers<br>
-&nbsp;B)Array<br>
-&nbsp;C)Strings<br>
+* Declarations, initializations and functions relating to each datatype have been explained.<br>
+* ***Integers, Array, Strings*** have been demonstrated.
 
 ### 2. Structures
-&nbsp;Declarations and accessing items within the structure are explained.<br>
-&nbsp;Empty structures
+* Declarations and accessing items within the structure are explained.<br>
+* &nbsp;Empty structures
 
 ### 3. Pointers
-&nbsp;Call by value and Call by reference concepts expained via ***swap*** function.
+* Call by value and Call by reference concepts expained via ***swap*** function.
+
+### 4. Interfaces
