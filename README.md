@@ -14,3 +14,6 @@
 * Implementing all methods in an Interface using a structure object.
 * Empty Interfaces
 * Interfaces with ***golang Maps***
+
+### 5. Control Structures
+* ***If, For, Continue, Break and Switch*** statements have been illustrated
