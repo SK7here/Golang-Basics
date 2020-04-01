@@ -37,7 +37,8 @@ func main() {
 	go Heavy()
 	go SuperHeavy()
 	fmt.Println("MainLine")
-	//Wait Indefinitely
+	//SELECT - Waits Indefinitely by halting main statement from finishing
+	//User has to interrupt to end execution, else the program will be keep on running
 	//Retruns deadlock - If For loop is finite
 	select{}
 }
