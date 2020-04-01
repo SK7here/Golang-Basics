@@ -11,7 +11,7 @@ import "sync"
 func main() {
 
 	//Wait Groups - Initializing and setting 2 "done" signals to be expected for ending the program
-		//This avoids deadlock
+	//This avoids deadlock which was the disadvantage of using SELECT
 	wg := &sync.WaitGroup{}
 	wg.Add(2)
 
