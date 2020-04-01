@@ -17,3 +17,7 @@
 
 ### 5. Control Structures
 * ***If, For, Continue, Break and Switch*** statements have been illustrated
+
+### 6. Go Routines
+* Go routines implemented using ***Select block***
+* Go routines implemented using ***Wait Group***
