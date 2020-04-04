@@ -21,3 +21,6 @@
 ### 6. Go Routines
 * Go routines implemented using ***Select block***
 * Go routines implemented using ***Wait Group***
+
+### 7. Go Channels
+* ***Buffered Channels*** and ***Unbuffered Channels*** are explained 
