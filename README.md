@@ -24,3 +24,7 @@
 
 ### 7. Go Channels
 * ***Buffered Channels*** and ***Unbuffered Channels*** are explained 
+
+### 8. Select Block
+* Select block for ***Channels***
+* Select block for ***Go Routines*** 
